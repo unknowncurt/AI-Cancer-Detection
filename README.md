@@ -38,5 +38,5 @@ Citations requested :
 • Masoud Nickparvar, Kaggle Brain Tumor Dataset, 2020.
 • SciDB Brain Tumor Dataset, SciDB, 2021.
 
-TOTAL IMAGES TO BE TRAINED : 7023 images consisting of 4 classes: glioma - meningioma - no tumor and pituitary. (Around 300 images each)
+TOTAL IMAGES TO BE TRAINED AND TESTED : 7023 images consisting of 4 classes: glioma - meningioma - no tumor and pituitary. (Around 300 images each)
 
