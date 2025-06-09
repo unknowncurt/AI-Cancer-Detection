@@ -31,8 +31,19 @@ data set found from keggle - https://www.kaggle.com/datasets/indk214/brain-tumor
 - Built Keras ImageDataGenerators for training (augmentations) and testing (rescaling)
 - Created train_generator and test_generator with  flow_from_directory for classification
 
+# JUNE 9
+# GROUP WORK
+- faced issue with the directory not being accessabile to everyone 
+- amanda downloaded API from kaggle and adjusted it
+- work split three way into readjusting written code onto new file
+- 
 
 
+
+
+- ran the first training session and reached accuracy 0.81 at 3 epochs
+- increased epochs to 5
+- accuracy increased to 0.86
 
 
 
@@ -48,26 +59,4 @@ Citations requested :
 TOTAL IMAGES TO BE TRAINED : 7023 images consisting of 4 classes: glioma - meningioma - no tumor and pituitary. (Around 300 images each)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Citations requested :
-
-• Masoud Nickparvar, Kaggle Brain Tumor Dataset, 2020.
-• SciDB Brain Tumor Dataset, SciDB, 2021.
-
-TOTAL IMAGES TO BE TRAINED AND TESTED : 7023 images consisting of 4 classes: glioma - meningioma - no tumor and pituitary. (Around 300 images each)
 
