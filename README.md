@@ -1,5 +1,5 @@
 # AI-Cancer-Detection Project Using CNN
-# Authors : Amanda Loeung, Hamza Bar, Melodie Cornelly 
+# Authors : Amanda Loeung, Hamza Harb, Melodie Cornelly 
 
 
 Data set found from Kaggle - https://www.kaggle.com/datasets/indk214/brain-tumor-dataset-segmentation-and-classification
