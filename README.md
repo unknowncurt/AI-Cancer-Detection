@@ -32,6 +32,7 @@ To improve generalization we applied the following :
 - `zoom_range=0.15` – vary tumor sizes
 - `brightness_range=[0.8, 1.2]` – simulate scanning variations
 - `horizontal_flip=False` – preserved anatomical orientation
+- `validation_split=0.2` - helps monitor how well the model generalizes to unseen data
 
 ## 🧪 Model Performance
 
@@ -41,7 +42,7 @@ To improve generalization we applied the following :
 - 
 | Metric     | Value   |
 |------------|---------|
-| Accuracy   | 87.0%   |
+| Accuracy   | 79.0%   |
 
 ## Acknowledgements
 
