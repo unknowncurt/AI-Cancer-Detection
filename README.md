@@ -1,5 +1,6 @@
 # AI-Cancer-Detection Project Using CNN
 # Authors : Amanda Loeung, Hamza Harb, Melodie Cornelly 
+# Instructors : Dr. Christelle Scharff , Dr. Kaleema, Stephanie Sicilian
 
 
 Data set used from Kaggle - https://www.kaggle.com/datasets/indk214/brain-tumor-dataset-segmentation-and-classification
@@ -56,3 +57,8 @@ This project is a collaboration between:
 - [@unknowncurt](https://github.com/unknowncurt)
 - [@AmLo](https://github.com/amlo026)
 - [@Melodiehc](https://github.com/melodiehc)
+
+Instructors :
+-   @scharffc
+-   @kaleema
+-   @stephsicilian
