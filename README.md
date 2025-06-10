@@ -34,7 +34,7 @@ To improve generalization we applied the following :
 - `horizontal_flip=False` – preserved anatomical orientation
 - `validation_split=0.2` - helps monitor how well the model generalizes to unseen data
 
-## 🧪 Model Performance
+## Model Performance
 
 - **Total Images**: 7,023 (5,712 training / 1,311 testing)
 - **Tumor Classes**: 4 (e.g., Glioma, Meningioma, Pituitary, No Tumor)
