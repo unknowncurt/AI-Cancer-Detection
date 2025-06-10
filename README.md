@@ -2,7 +2,7 @@
 # Authors : Amanda Loeung, Hamza Harb, Melodie Cornelly 
 
 
-Data set found from Kaggle - https://www.kaggle.com/datasets/indk214/brain-tumor-dataset-segmentation-and-classification
+Data set used from Kaggle - https://www.kaggle.com/datasets/indk214/brain-tumor-dataset-segmentation-and-classification
 
 ## Project Objective
 
@@ -42,7 +42,7 @@ To improve generalization we applied the following :
 - 
 | Metric     | Value   |
 |------------|---------|
-| Accuracy   | 81.0%   |
+| Accuracy   | 82.0%   |
 
 ## Acknowledgements
 
