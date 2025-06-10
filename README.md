@@ -43,7 +43,7 @@ To improve generalization we applied the following :
 - 
 | Metric     | Value   |
 |------------|---------|
-| Accuracy   | 82.0%   |
+| Accuracy   | 84.0%   |
 
 ## Acknowledgements
 
